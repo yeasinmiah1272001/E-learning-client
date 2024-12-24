@@ -6,7 +6,7 @@ import banner2 from "../assets/banner/2.png";
 
 const FreeCourse = () => {
   return (
-    <Container className="flex flex-col lg:flex-row gap-16 items-center p-6 lg:p-12">
+    <Container className="flex flex-col lg:flex-row gap-16 items-center p-6 lg:p-12 py-8">
       {/* Image Section */}
       <div className="w-full lg:w-1/2 relative">
         <img src={img1} alt="Course illustration" className="w-full " />

@@ -74,8 +74,8 @@ const PopularCategory = () => {
         {/* Right Section */}
         <div className="col-span-3">
           <Slider ref={sliderRef} {...settings}>
-            {category.map((item) => (
-              <div key={item.id} className="p-4">
+            {category.map((item, index) => (
+              <div key={index} className="p-4">
                 <div className="rounded-lg border border-gray-200 shadow-md hover:shadow-lg overflow-hidden  transition group bg-gradient-to-b from-white to-gray-50">
                   <img
                     className="w-full h-56 object-cover  transition-transform duration-300 group-hover:scale-105"

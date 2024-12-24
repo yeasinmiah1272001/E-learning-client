@@ -3,6 +3,7 @@ import Banner from "../components/Banner";
 import Brand from "../components/Brand";
 import PopularCategory from "../components/PopularCategory";
 import FreeCourse from "../components/FreeCourse";
+import AllCourse from "../components/AllCourse";
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
       <Banner />
       <Brand />
       <PopularCategory />
+      <AllCourse />
       <FreeCourse />
     </div>
   );

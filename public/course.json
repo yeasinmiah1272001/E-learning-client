@@ -1,0 +1,212 @@
+[
+  {
+    "id": 5,
+    "title": "Graphic Design",
+    "description": "Explore the principles of design and learn to create stunning visual content.",
+    "price": 89.99,
+    "image": "https://i.ibb.co/JxmftR9/graphics-design.jpg",
+    "category": "Design",
+    "difficulty": "Beginner",
+    "prerequisites": "No prerequisites required.",
+    "duration": "8 weeks",
+    "learning_outcomes": [
+      "Understand design fundamentals and principles.",
+      "Master tools like Photoshop and Illustrator.",
+      "Create professional-level designs for various media."
+    ],
+    "instructor": {
+      "name": "Sophia Davis",
+      "experience": "10+ years in graphic design and branding",
+      "profile_image": "https://i.ibb.co/sophiadavis.jpg"
+    },
+    "mode_of_delivery": "Online (Self-paced)",
+    "certification": "Graphic Design Specialist Certification",
+    "reviews": [
+      {
+        "user": "Daniel Roberts",
+        "rating": 4.7,
+        "comment": "Great introduction to design. The practical projects were fantastic!"
+      },
+      {
+        "user": "Emma Harris",
+        "rating": 4.4,
+        "comment": "Loved the course, but more advanced topics would be nice."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Web Development",
+    "description": "Learn to build modern and responsive websites from scratch.",
+    "price": 109.99,
+    "image": "https://i.ibb.co/PgQGydP/web-development.jpg",
+    "category": "Web Development",
+    "difficulty": "Beginner to Intermediate",
+    "prerequisites": "Basic computer skills.",
+    "duration": "10 weeks",
+    "learning_outcomes": [
+      "Understand HTML, CSS, and JavaScript fundamentals.",
+      "Build responsive websites using modern frameworks.",
+      "Deploy websites and manage hosting services."
+    ],
+    "instructor": {
+      "name": "David Lee",
+      "experience": "Full-stack developer with 8+ years of experience",
+      "profile_image": "https://i.ibb.co/davidlee.jpg"
+    },
+    "mode_of_delivery": "Online (Live + Recorded Sessions)",
+    "certification": "Web Development Certification",
+    "reviews": [
+      {
+        "user": "Olivia Martinez",
+        "rating": 4.9,
+        "comment": "Excellent course! It gave me the confidence to start freelancing."
+      },
+      {
+        "user": "Lucas Thompson",
+        "rating": 4.6,
+        "comment": "Good mix of theory and practice. The live sessions were very engaging."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "App Development",
+    "description": "Learn the fundamentals of mobile app development with this comprehensive course.",
+    "price": 99.99,
+    "image": "https://i.ibb.co.com/6HsCR8f/app-development.png",
+    "category": "App Development",
+    "difficulty": "Beginner to Intermediate",
+    "prerequisites": "Basic programming knowledge is recommended.",
+    "duration": "8 weeks",
+    "learning_outcomes": [
+      "Understand mobile app development frameworks.",
+      "Develop Android and iOS applications.",
+      "Learn how to deploy apps to app stores."
+    ],
+    "instructor": {
+      "name": "John Doe",
+      "experience": "10+ years in mobile app development",
+      "profile_image": "https://i.ibb.co/johndoe.jpg"
+    },
+    "mode_of_delivery": "Online (Self-paced)",
+    "certification": "Certificate of Completion",
+    "reviews": [
+      {
+        "user": "Alice Johnson",
+        "rating": 4.5,
+        "comment": "Great course for beginners! The practical examples were very helpful."
+      },
+      {
+        "user": "Mark Spencer",
+        "rating": 4.0,
+        "comment": "Well-structured content but could use more advanced topics."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Data Science",
+    "description": "Master data analysis and machine learning techniques to analyze large datasets.",
+    "price": 129.99,
+    "image": "https://i.ibb.co.com/1f6PYrS/data-science.jpg",
+    "category": "Data Science",
+    "difficulty": "Intermediate to Advanced",
+    "prerequisites": "Basic programming and statistics knowledge.",
+    "duration": "12 weeks",
+    "learning_outcomes": [
+      "Analyze and visualize data using Python and R.",
+      "Apply machine learning models to real-world problems.",
+      "Understand big data tools like Hadoop and Spark."
+    ],
+    "instructor": {
+      "name": "Dr. Emily Chen",
+      "experience": "PhD in Data Science, 15+ years in analytics",
+      "profile_image": "https://i.ibb.co/emilychen.jpg"
+    },
+    "mode_of_delivery": "Online (Live + Recorded Sessions)",
+    "certification": "Professional Data Science Certification",
+    "reviews": [
+      {
+        "user": "Michael Brown",
+        "rating": 5.0,
+        "comment": "Comprehensive and detailed. Helped me land a data analyst role!"
+      },
+      {
+        "user": "Sophia Lee",
+        "rating": 4.5,
+        "comment": "Challenging but rewarding. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing",
+    "description": "Learn the strategies behind successful digital marketing campaigns.",
+    "price": 79.99,
+    "image": "https://i.ibb.co.com/drybJ0Z/digital-marketing.jpg",
+    "category": "Digital Marketing",
+    "difficulty": "Beginner",
+    "prerequisites": "No prerequisites required.",
+    "duration": "6 weeks",
+    "learning_outcomes": [
+      "Understand SEO and SEM fundamentals.",
+      "Create and optimize social media campaigns.",
+      "Analyze marketing performance using analytics tools."
+    ],
+    "instructor": {
+      "name": "Anna Wright",
+      "experience": "8+ years in digital marketing strategy",
+      "profile_image": "https://i.ibb.co/annawright.jpg"
+    },
+    "mode_of_delivery": "Online (Self-paced)",
+    "certification": "Digital Marketing Specialist Certification",
+    "reviews": [
+      {
+        "user": "James Parker",
+        "rating": 4.8,
+        "comment": "Perfect for beginners. I launched my first campaign successfully!"
+      },
+      {
+        "user": "Laura Adams",
+        "rating": 4.2,
+        "comment": "Good course, but could use more examples from different industries."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Ethical Hacking",
+    "description": "Understand the world of cybersecurity and ethical hacking with real-world examples.",
+    "price": 149.99,
+    "image": "https://i.ibb.co.com/wKYb1Hj/ethical-hacking.jpg",
+    "category": "Ethical Hacking",
+    "difficulty": "Intermediate",
+    "prerequisites": "Basic networking and programming knowledge.",
+    "duration": "10 weeks",
+    "learning_outcomes": [
+      "Understand penetration testing methodologies.",
+      "Learn to identify and exploit vulnerabilities.",
+      "Master the tools used by ethical hackers."
+    ],
+    "instructor": {
+      "name": "Kevin Smith",
+      "experience": "Certified Ethical Hacker with 12+ years in cybersecurity",
+      "profile_image": "https://i.ibb.co/kevinsmith.jpg"
+    },
+    "mode_of_delivery": "Online (Live Sessions)",
+    "certification": "Certified Ethical Hacker (CEH) Prep Certificate",
+    "reviews": [
+      {
+        "user": "Chris Wilson",
+        "rating": 5.0,
+        "comment": "Highly informative and hands-on! The labs were excellent."
+      },
+      {
+        "user": "Patricia Evans",
+        "rating": 4.3,
+        "comment": "Challenging course, but it really enhanced my skills."
+      }
+    ]
+  }
+]
